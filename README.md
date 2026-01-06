@@ -19,14 +19,16 @@ Dataset mushroom diolah melalui beberapa tahapan data mining, mulai dari preproc
 
 ## 📂 Project Structure
 ```
-data : mushroom_dataset.csv # Dataset mushroom
-↓
-analisis python : mushroom_rf_analysis.ipynb # Analisis & klasifikasi (Python)
-↓
-r-dashboard : app.R # Dashboard Shiny (R)
-↓
-README.md
-
+├── data/
+│ └── mushroom_dataset.csv # Dataset mushroom
+│
+├── python/
+│ └── mushroom_rf_analysis.ipynb # Analisis & klasifikasi (Python)
+│
+├── r-dashboard/
+│ └── app.R # Dashboard Shiny (R)
+│
+└── README.md
 ```
 
 ## 🧠 Methodology
